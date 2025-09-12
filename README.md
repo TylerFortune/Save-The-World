@@ -13,18 +13,18 @@ This project is a three-page website created for a course assignment. The site i
 ## Assignment Requirements Checklist
 
 ### Each of the three pages must:
-- [x] Contain links to each other
+- [] Contain links to each other
 - [x] Have unique titles
-- [] Contain a div (at least one)
-- [] Contain a paragraph (at least one)
-- [] Contain a heading (h1–h6) (at least one)
+- [x] Contain a div (at least one)
+- [x] Contain a paragraph (at least one)
+- [x] Contain a heading (h1–h6) (at least one)
 
 ### Across the three pages, the website must include at least one of each:
 - [x] List (`<ul>`, `<ol>`, or `<li>`) — included
-- [x] Table (`<table>`) — included
-- [] Image (`<img>`) — included (all images are copyright-free)
-- [] Bold or strong text (`<b>` or `<strong>`) — included
-- [] Italics or emphasis (`<i>` or `<em>`) — included
+- [] Table (`<table>`) — included
+- [x] Image (`<img>`) — included (all images are copyright-free)
+- [x] Bold or strong text (`<b>` or `<strong>`) — included
+- [x] Italics or emphasis (`<i>` or `<em>`) — included
 
 > **Note:** Lists and tables are contextually relevant to the content. Images are sourced from copyright-free resources (e.g., pexels.com).
 
