@@ -19,6 +19,15 @@ h3{
     font-size: 18px;
     font-family: 'Poppins';
 }
+h4{
+    color: gray;
+    font-size: 16px;
+    font-family: 'Poppins';
+}
+li{
+    font-family: 'Poppins';
+    font-size: 14px;
+}
 p{
     font-family: 'Poppins';
     font-size: 14px;
@@ -104,4 +113,23 @@ p{
     margin-top: 50px;
     height: 400px;
     width: 100%;
+}
+.caption-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
+    height: 16px;
+    width: 100%;
+}
+.split-container {
+  display: flex;
+  width: 100%;
+  height: 300px;
+}
+.left-container,
+.right-container {
+  flex: 1 1 50%;
+  justify-content: center;
+  align-items: center;
 }
