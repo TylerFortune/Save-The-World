@@ -7,13 +7,14 @@ This project is a three-page website created for a course assignment. The site i
 - `index.html` — Main page
 - `page2.html` — Second content page
 - `page3.html` — Third content page
+- `page4.html`  — Fourth content page
 - `styles.css` — Shared stylesheet
 - `img/` — Image assets (all images are copyright-free)
 
 ## Assignment Requirements Checklist
 
 ### Each of the three pages must:
-- [] Contain links to each other
+- [x] Contain links to each other
 - [x] Have unique titles
 - [x] Contain a div (at least one)
 - [x] Contain a paragraph (at least one)

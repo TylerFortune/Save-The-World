@@ -133,3 +133,10 @@ p{
   justify-content: center;
   align-items: center;
 }
+.text-container {
+  padding: 20px;
+  text-align: justify;
+  line-height: 1.6;
+  font-family: 'Poppins';
+  overflow-y: auto;
+}
