@@ -22,7 +22,7 @@ This project is a three-page website created for a course assignment. The site i
 
 ### Across the three pages, the website must include at least one of each:
 - [x] List (`<ul>`, `<ol>`, or `<li>`) — included
-- [] Table (`<table>`) — included
+- [x] Table (`<table>`) — included
 - [x] Image (`<img>`) — included (all images are copyright-free)
 - [x] Bold or strong text (`<b>` or `<strong>`) — included
 - [x] Italics or emphasis (`<i>` or `<em>`) — included
